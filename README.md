@@ -1,6 +1,6 @@
 # Transformer Decoder Implementation
 
-Welcome! This repository contains a simple implementation of a transformer decoder using the `Tiny Shakespeare` dataset. This project is created purely for fun and educational purposes. Feel free to fork the repository and make use of it.
+Hey folks! This repository contains a simple implementation of a transformer decoder using the `Tiny Shakespeare` dataset. This project is created purely for fun and educational purposes. Feel free to fork the repository and make use of it.
 
 ### Special Thanks
 
